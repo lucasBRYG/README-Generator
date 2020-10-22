@@ -64,7 +64,7 @@ function init() {
     inquirer
     .prompt(questions)
     .then(function(response){
-        const filename = "TESTREADME.md";
+        const filename = "README.md";
         const generatedREADME =  generatedMarkdown(response)
         fs.writeFileSync(filename, generatedMarkdown(response), function(err){
             if (err) {
