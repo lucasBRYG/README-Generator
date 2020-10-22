@@ -26,7 +26,7 @@ THEN I am taken to the corresponding section of the README
 
 ## Check out a demo
 
-(demo goes here)
+https://drive.google.com/file/d/1x9BsnFwVauNf9PleU1mP64B91HCYw3af/view?usp=sharing
 
 ## Instructions
 
